@@ -1,0 +1,37 @@
+[
+    {
+        "_id": "9d0fd",
+        "firstName": "Mesiye",
+        "lastName": "Bisrat",
+        "phoneNumber": "123-23-345",
+        "DOB": "2023-04-17",
+        "education": "master",
+        "favoriteColor": "#c1ff8f",
+        "courseSatisfaction": "45",
+        "about": "Manager",
+        "luckNumber": "21",
+        "gender": "female",
+        "hobbies": [
+            "motorcycle",
+            "Basketball",
+            "pool billiards"
+        ]
+    },
+    {
+        "_id": "6fad0",
+        "firstName": "Liya",
+        "lastName": "Kebede",
+        "phoneNumber": "123-23-345",
+        "DOB": "2023-04-18",
+        "education": "high school",
+        "favoriteColor": "#d62424",
+        "courseSatisfaction": "95",
+        "about": "Student",
+        "luckNumber": "12",
+        "gender": "female",
+        "hobbies": [
+            "Basketball",
+            "pool billiards"
+        ]
+    }
+]

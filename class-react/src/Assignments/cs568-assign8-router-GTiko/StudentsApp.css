@@ -1,0 +1,71 @@
+body{
+  font-family: cursive ;
+}
+
+table,
+th,
+td,
+tr {
+  border: lightskyblue 1px solid;
+}
+table {
+  border-collapse: collapse;
+  width: 95%;
+  margin-left: 30px;
+  
+  box-shadow: 0 0 20px 5px rgba(1, 35, 255, 0.42);
+  padding: 10px;
+}
+
+table tr:nth-child(even) {
+  background-color: #cacbce;
+}
+
+table tr:hover {
+  background-color: #c7c8cc;
+}
+
+td {
+  text-align: center;
+}
+
+table th,
+h1 {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: center;
+  background-color: #142057;
+  color: white;
+}
+
+main {
+  text-align: center;
+}
+
+#deleteEdit {
+  display: grid;
+  grid-template-columns: auto auto;
+  gap: 5px;
+}
+#AddUpdate {
+  display: grid;
+  grid-template-columns: auto;
+  gap: 5px;
+}
+
+form {
+  margin-left: 30px;
+  margin-right: 30px;
+  display: grid;
+  grid-template-columns: auto auto auto;
+  text-align: left;
+
+  box-shadow: 0 0 20px 5px rgba(1, 35, 255, 0.235);
+  padding: 10px;
+}
+
+button:hover {
+  box-shadow: 0 0 20px 10px rgba(163, 174, 245, 0.235);
+  transform: scale(1.05);
+  z-index: 1;
+}

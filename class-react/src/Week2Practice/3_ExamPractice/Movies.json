@@ -1,0 +1,42 @@
+[
+    {
+      "id":101,
+      "title": " The Shawshank Redemption",
+      "image": "https://picsum.photos/50",
+      "rating": 9.2,
+      "genre": "Action",
+      "description": "Lorem ipsum dolor sit amet,adipisicing elit.",
+      "year": 1994,
+      "director": "John"
+    },
+    {
+      "id":102,
+      "title": " The Godfather ",
+      "image": "https://picsum.photos/50",
+      "rating": 9.0,
+      "genre": "Drama",
+      "description": "Lorem ipsum dolor sit amet,adipisicing elit.",
+      "year": 1972,
+      "director": "Mike"
+    },
+    {
+      "id":103,
+      "title": " The Dark Knight",
+      "image": "https://picsum.photos/50",
+      "rating": 8.9,
+      "genre": "Action",
+      "description": "Lorem ipsum dolor sit amet,adipisicing elit.",
+      "year": 2008,
+      "director": "Rob"
+    },
+    {
+      "id":104,
+      "title": " The Lord of the Rings",
+      "image": "https://picsum.photos/50",
+      "rating": 9.8,
+      "genre": "Adventure",
+      "description": "Lorem ipsum dolor sit amet,adipisicing elit.",
+      "year": 2003,
+      "director": "Nas"
+    }
+  ]

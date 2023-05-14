@@ -1,0 +1,51 @@
+table,
+th,
+td,
+tr {
+  border: lightskyblue 1px solid;
+}
+table {
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  margin: 0 auto;
+}
+
+table tr:nth-child(even) {
+  background-color: #dcdae0;
+}
+
+table tr:hover {
+  background-color: #ddd;
+}
+
+td {
+  text-align: center;
+}
+
+table th,
+h1 {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: center;
+  background-color: #3c23ad;
+  color: white;
+}
+
+main {
+text-align: center;
+}
+
+#deleteEdit {
+  display: grid;
+  grid-template-columns: auto auto;
+  gap: 5px;
+}
+#AddUpdate {
+  display: grid;
+  grid-template-columns: auto;
+  gap: 5px;
+}
+
+/* #fullName{
+  text-align: center;
+} */
