@@ -1,4 +1,4 @@
-# CS477_NODE_SERVER_SIDE.github.io
+# CS568_REACT_WEB.github.io
 
 # npm for React
 	=>	npx create-react-app <my-app>
